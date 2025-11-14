@@ -15,6 +15,7 @@ luis.andres.perez.cordon@gmail.com
 
 
 Trello
+https://trello.com/b/azb0LfJ1/qa-automation-santex
 
 Plan de pruebas
 
